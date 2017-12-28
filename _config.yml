@@ -1,0 +1,73 @@
+url: https://ohmyport.com
+baseurl: 
+
+# Site settings
+title: Oh my port!
+email: direccion@provedelop.es
+description: "Como Posidonia Port pero mejor"
+
+
+# Team names, titles and social links
+people:
+- name: Julián
+  pic: 2
+  position: Intern & VP Engineering
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
+  #     url: #
+- name: Marc
+  pic: 5
+  position: PUI Advocate
+- name: Miguel
+  pic: 3
+  position: Estic molt loco local
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
+people2:
+- name: Jorge Sanz
+  pic: 4
+  position: Actor & co-founder
+- name: ReservaDel84
+  pic: 1
+  position: Ex-patriado
+- name: Maria José
+  pic: 6
+  position: Aerodynamic Wind Engineer
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: google-plus
+  #     url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
