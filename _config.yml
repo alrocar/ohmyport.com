@@ -42,6 +42,16 @@ people2:
 - name: Maria José
   pic: 6
   position: Aerodynamic Wind Engineer
+people3:
+- name: Carlos
+  pic: 7
+  position: 2013s
+- name: Christophe
+  pic: 8
+  position: Brown dispatcher
+- name: Mllorente
+  pic: 9
+  position: Murciano
   # social:
   #   - title: twitter
   #     url: #
